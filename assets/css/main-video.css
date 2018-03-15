@@ -1,0 +1,8 @@
+section.main-video {
+    background-image: url("https://cdn.pixabay.com/photo/2018/03/02/18/29/snow-3193865__340.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}

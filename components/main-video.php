@@ -1,4 +1,4 @@
-<section class="main-video.php">
+<section class="main-video">
     <div class="container">
         <div class="row">   
             <div class="col-10 col-md-5 offset-1"
@@ -14,7 +14,7 @@
             </div>        
                 
             <div class="col-10 col-md-5 offset-1">        
-                <iframe width="400" height="250" src="https://www.youtube.com/embed/ye8jKp0MbWU" frameborder="0" allow="autoplay; encrypted-media"
+                <iframe width="100%" height="250" src="https://www.youtube.com/embed/ye8jKp0MbWU" frameborder="0" allow="autoplay; encrypted-media"
                     allowfullscreen></iframe>
                 <h6>THE PAINFUL TRUTH DOCUMENTARY</h6>
                 <a href="#">Learn More</a>

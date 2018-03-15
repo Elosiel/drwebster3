@@ -1,7 +1,7 @@
-<section class="main-video.php">
+<section class="main-book">
     <div class="container">
         <div class="row">   
-            <div class="col-10 col-md-5 offset-1"
+            <div class="col-10 col-md-5 offset-1">
                 <h3>What Chronic Pain is Really Like</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas finibus eget neque ac eleifend. Sed elit
                     nunc, dapibus ut quam a, gravida dictum ligula. Integer convallis hendrerit sagittis. Ut commodo, libero

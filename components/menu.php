@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col 4">
-                <img src="http://via.placeholder.com/250x50" alt="Dr_lynn_Webster_imagen">
+                <img src="http://via.placeholder.com/250x50" alt="Dr Lynn Webster">
             </div>
             <div class="col-8 text-right">
                 <ul class="list-inline">

@@ -7,8 +7,8 @@
                 He is board Certified in anesthesiology and Pain Medicine and also is certified in addiction medicine.</p>
             </div> 
             <div class="col-12 col-md-4">
-                <ul> 
-                    <li><h4>Resource link</h4></li>
+                <h4>Resource link</h4>
+                <ul>
                     <li><a href="#"><u>YOUR PAIN COMMUNITY</u></a></li>
                     <li><a href="#"><u>OUR CHRONIC PAIN</u></a></li>
                     <li><a href="#"><u>TRETH THE PAIN</u></a></li>

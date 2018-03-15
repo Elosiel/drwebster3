@@ -1,4 +1,4 @@
-<section class="date-form">
+<section class="send-letter">
     <div class="container">
         <div class="row">   
             <div class="col-12 col-md-2 offset-1">

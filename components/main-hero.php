@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12 col-md-5 text-left offset-md-1">
                 <br>
-                <h3>Understanding</h3>
+                <h3 class="title"><a href=""><span>Understanding</span></a></h3>
                 <h1>Chronic Pain</h1>
                 <hr>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas finibus eget neque ac eleifend. Sed elit
