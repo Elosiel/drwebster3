@@ -8,6 +8,20 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="assets/css/three-banners.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/top-nav.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/menu.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/main-hero.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/menu-links.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/date-form.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/main-video.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/main-book.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/send-letter.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/blog-posts.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/about-webster.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/foot.css" />
+    
 </head>
 <body>
 
@@ -19,16 +33,14 @@
 
     <?php include 'components/menu-links.php'; ?>
     <br>
-    <?php include 'components/3-banners.php'; ?>
+    <?php include 'components/three-banners.php'; ?>
     
     <?php include 'components/date-form.php'; ?>
 
     <?php include 'components/main-video.php'; ?>
 
     <?php include 'components/main-book.php'; ?>
-    <br>
     <?php include 'components/send-letter.php'; ?>
-    <br>
     <?php include 'components/blog-posts.php'; ?>
     <br>
     <?php include 'components/about-webster.php'; ?>
