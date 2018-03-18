@@ -3,4 +3,14 @@ section.top-nav {
     font-size: 15 px;
     background: rgb(47, 182, 216);
     color: white;
+    /* position fixed*/
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+body {
+    padding-top: 40px;
 }
