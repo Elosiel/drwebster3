@@ -10,13 +10,11 @@ section.main-hero {
 section.main-hero h3.title {
     color: red;
     position: absolute;
-    left: 0px;
-    top: 50%;
-    background: blue;
+    right: 0px;
+    top: 40px;
     /*transform: translate(-50%, 0);
     transform: translateX(-50%);
     transform: translateY(-50%);*/
-    transform: translate(100%, -50%);
     /* translate(x, y)*/
 }
 

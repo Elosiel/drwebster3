@@ -11,6 +11,20 @@ section.top-nav {
     z-index: 1;
 }
 
+section.top-nav ul li a {
+    background: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: brown;
+    font-size: 12px;
+    border-radius: 25px;
+}
+
+section.top-nav ul li a:hover {
+    background: brown;
+    color: white;
+}
+
 body {
     padding-top: 40px;
 }

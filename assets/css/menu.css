@@ -3,3 +3,15 @@ section.menu {
     background: rgb(245, 245, 250);
     padding-top: 10px;
 }
+
+section.menu ul li {
+    border-right: 1px solid gray;
+    padding-right: 10px;
+}
+
+section.menu ul li:last-child {
+    border: none;
+    padding-right: 0px;
+}
+
+section.menu ul li:first-child {}
